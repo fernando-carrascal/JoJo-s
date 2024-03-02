@@ -29,12 +29,12 @@ width: 350px;
        </tr>
   </table>
 
- A partir de esta parte habrá muchos villanos, aquí se muestran los más importantes.
+ Aquí se muestran los villanos más importantes.
   <table border='10' class='center'> 
        <tr>
 
-<td><img src='../figuras/e.gif'><figcaption> Enyaba y Justice </figcaption></td>
-<td><img src='../figuras/v.gif'><figcaption> Vanilla Ice y Cream </figcaption></td>
-<td><img src='../figuras/teworl.gif'><figcaption> Dio Brando y The World </figcaption></td>
+<td><img src='../figuras/re.gif'><figcaption> Red Hot Chilly Peppers </figcaption></td>
+<td><img src='../figuras/a.gif'><figcaption> Akira Otoshi (Usuario de Ret Hot Chilly Peppers) </figcaption></td>
+<td><img src='../figuras/ki.gif'><figcaption> Yoshikage Kira y Killer Queen </figcaption></td>
        </tr> 
   </table>
