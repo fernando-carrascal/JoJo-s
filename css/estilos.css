@@ -2,6 +2,9 @@ body {
 background-color: orange;
 }
 
+p {
+ 
+}
 
 .center{
 
@@ -15,3 +18,4 @@ img{ Display: block;
       Widht: 350px;
 
 figcaption {text-align:center;}
+
